@@ -256,6 +256,7 @@ When using the Analysis tab, the tool grades the steganography quality based on 
 *Tools*
 
 
+
 <img width="747" height="880" alt="image" src="https://github.com/user-attachments/assets/f381f982-4b46-491e-af29-3f25058f0cf3" />
 
 
@@ -270,6 +271,7 @@ When using the Analysis tab, the tool grades the steganography quality based on 
 
 
 This project is open-source and free to use for educational purposes.
+
 
 
 
