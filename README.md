@@ -1,4 +1,4 @@
-<img width="747" height="880" alt="image" src="https://github.com/user-attachments/assets/07b01240-7493-4358-b20f-ee3e590b3961" /># 🔒 StegoPro: LSB Image Steganography Suite
+# 🔒 StegoPro: LSB Image Steganography Suite
 
 A high-performance, GUI-based tool for hiding multiple secret files inside lossless images (PNG, BMP, TIFF) using **Least Significant Bit (LSB)** steganography.
 
@@ -271,6 +271,7 @@ When using the Analysis tab, the tool grades the steganography quality based on 
 
 
 This project is open-source and free to use for educational purposes.
+
 
 
 
