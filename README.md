@@ -264,7 +264,7 @@ When using the Analysis tab, the tool grades the steganography quality based on 
 
 ## 👤 Author
 
-**Farhan Ismail**
+**N3k0sint**
 *Developed for Steganography Tools*
 
 ## 📄 License
